@@ -1,0 +1,10 @@
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\bin\Debug\examen_practico_ra2_WilmerOPp.exe.config
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\bin\Debug\examen_practico_ra2_WilmerOPp.exe
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\bin\Debug\examen_practico_ra2_WilmerOPp.pdb
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.csproj.AssemblyReference.cache
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.Form1.resources
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.Properties.Resources.resources
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.csproj.GenerateResource.cache
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.exe
+C:\Users\wilme\source\repos\examen_practico_ra2_WilmerOPp\examen_practico_ra2_WilmerOPp\obj\Debug\examen_practico_ra2_WilmerOPp.pdb
